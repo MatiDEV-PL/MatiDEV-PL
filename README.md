@@ -6,5 +6,5 @@
 - <img src="3d-printer.png" width="20"> [MakerWorld](https://makerworld.com/en/@MatiDEVPL/upload)
 - 📱 [XDA profile](https://xdaforums.com/m/matiiintel.7933653/)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiDEV-PL&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiDEV-PL&layout=compact&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatiDEV-PL&theme=github)
 
